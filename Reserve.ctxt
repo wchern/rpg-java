@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=Reserve(int)
+comment1.params=amt
+comment1.target=boolean\ deduct(int)
+comment2.params=amt
+comment2.target=void\ deposit(int)
+comment3.params=
+comment3.target=int\ getFunds()
+numComments=4

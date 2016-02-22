@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=Nation(int)
+comment1.params=force\ branch
+comment1.target=boolean\ replenishMilitary(int,\ int)
+comment2.params=branch\ force
+comment2.target=boolean\ invokeMilitary(int,\ int)
+comment3.params=amt
+comment3.target=boolean\ useFunds(int)
+comment4.params=amt
+comment4.target=void\ depositFunds(int)
+comment5.params=
+comment5.target=int\ returnFunds()
+comment6.params=
+comment6.target=int[]\ getMilitaryForce()
+numComments=7
